@@ -1,18 +1,18 @@
 
 ---
-### Want to build & ship full stack apps with Nuxt 3? Try [Supersaas](https://supersaas.dev?ref=github)
+<!-- ### Want to build & ship full stack apps with Nuxt 3? Try [Supersaas](https://supersaas.dev?ref=github) -->
 
 
-#### The saas starter kit with Auth, Billing, Database, Storage, KV and lot's of other saas recipes.
+<!-- #### The saas starter kit with Auth, Billing, Database, Storage, KV and lot's of other saas recipes. -->
 ---
 
 
 
-# Zooper
+# Portfolio
 
-Zooper is a beautiful personal portfolio template for developers, programmers, freelancers and designers.
+This is my personal portfolio website.
 
-![Zooper template home preview](https://zooper.pages.dev/preview.jpg)
+<!-- ![Zooper template home preview](https://zooper.pages.dev/preview.jpg) -->
 
 
 ## Features
