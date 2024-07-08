@@ -3,6 +3,8 @@
     <div class="space-y-24">
       <HomeIntro />
       <HomeSocialLinks />
+      <HomeTeckStack />
+      <HomeEducation/>
       <HomeFeaturedProjects />
       <HomeFeaturedArticles />
       <HomeNewsletter />
